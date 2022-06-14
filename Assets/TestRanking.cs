@@ -7,7 +7,7 @@ using Firebase.Database;
 using Firebase.Unity.Editor;
 // Firebase 불러오기
 
-public class GameManager : MonoBehaviour
+public class TestRanking : MonoBehaviour
 {
     class Rank
     {
